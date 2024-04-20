@@ -7,3 +7,5 @@
 /ui/.idea
 /ui/.vscode
 /ui/dist
+/server/server.exe
+/release

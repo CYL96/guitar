@@ -1,6 +1,7 @@
 .common-flex-center {
     display: flex;
     align-items: center;
+    align-content: center;
     justify-content: center;
 }
 
@@ -12,6 +13,9 @@
     display: flex;
     flex-direction: row;
     align-items: center;
+    align-content: center;
     justify-content: space-between;
-    width: 95%;height: 5vh
+    width: 95%;
+    height: 5vh;
+    min-height: 50px;
 }

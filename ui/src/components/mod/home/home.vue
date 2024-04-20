@@ -17,7 +17,6 @@
       <el-scrollbar view-class="pic_list_container_2">
         <div v-for="item in NowPicList"
              class="common-flex-center common-border"
-
              style="margin: 2px;flex-direction: column">
           <div @click="SelectPic(item)" style="width: 200px;height: 250px;">
             <div class="common-flex-center"

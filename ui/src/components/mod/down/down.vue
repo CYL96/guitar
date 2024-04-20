@@ -30,16 +30,21 @@ const OnClickBtn = (item: GetGuitarModListResult) => {
 const modList = ref<GetGuitarModListResult[]>([
   {
     mod_id: 1,
+    mod_name: "油猴脚本",
+    mod_url: "https://openuserjs.org/scripts/cly96/%E5%90%89%E4%BB%96%E8%B0%B1%E4%B8%8B%E8%BD%BD",
+  },
+  {
+    mod_id: 2,
     mod_name: "fox4",
     mod_url: "https://www.fox4.cn/",
   },
   {
-    mod_id: 2,
+    mod_id: 3,
     mod_name: "gtpso",
     mod_url: "https://www.gtpso.com/",
   },
   {
-    mod_id: 3,
+    mod_id: 4,
     mod_name: "cwguitar",
     mod_url: "https://www.cwguitar.cn/",
   }
