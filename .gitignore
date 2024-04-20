@@ -1,0 +1,9 @@
+/win-x86-amd64
+/server/docs
+/server/.idea
+/server/dist
+/server/Guitar
+/ui/node_modules
+/ui/.idea
+/ui/.vscode
+/ui/dist

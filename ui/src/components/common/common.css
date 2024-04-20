@@ -1,0 +1,17 @@
+.common-flex-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.common-border {
+    border: #2d9fc2 solid 1px;
+}
+
+.common-header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 95%;height: 5vh
+}
